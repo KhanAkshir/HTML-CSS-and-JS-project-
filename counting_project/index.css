@@ -1,0 +1,74 @@
+body 
+{     
+    text-align: center;
+    font-weight: bold;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fOnEZeVrmNeT0aQ6ysu8mS0LZdDGaDKiyg&usqp=CAU");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 100%;
+}
+.num
+{
+    color: red;
+    text-shadow: 5px 5px black;
+    font-weight: bold;  
+    font-size: 90px;
+    margin-top: 10px;
+    margin-bottom: 10px ;
+}
+button
+{
+    width:300px;
+    margin:5px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.buttons
+{
+    margin-top: 20px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.foot
+{
+    font-weight: bold;
+   
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.S
+{
+    background: darkgreen;
+    color: white;
+    font-weight: bold;   
+}
+.I
+{
+    background: darkred;
+    color: white;
+    font-weight: bold;   
+}
+.R
+{
+    background: red;
+    color: white;
+    font-weight: bolder;   
+}
+a:link
+{
+    text-decoration: none;
+}
+a{
+    color: white
+}
+.D
+{
+    background: blueviolet;
+    color: white;
+    font-weight: bold;   
+}
